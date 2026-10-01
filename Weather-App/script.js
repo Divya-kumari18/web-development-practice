@@ -1,23 +1,3 @@
-// ==========================================
-// SKYCAST WEATHER APP
-// Week 3 - JavaScript Logic & APIs
-//
-// Concepts used:
-// 1. DOM Manipulation
-// 2. Fetch API
-// 3. JSON Parsing
-// 4. Async / Await
-// 5. Event Listeners
-// 6. Local Storage
-// ==========================================
-
-
-// ==========================================
-// OPENWEATHERMAP API KEY
-// ==========================================
-
-// Put your NEW OpenWeatherMap API key here.
-
 const API_KEY = "a0659148a015b4230dfc1d8706460065";
 
 
