@@ -1,4 +1,4 @@
-alert("JavaScript is working!");
+
 function openImage(image) {
 
     let lightbox = document.getElementById("lightbox");
